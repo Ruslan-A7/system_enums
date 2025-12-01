@@ -20,7 +20,7 @@ namespace RA7\Framework\System\Enums;
  * @license RA7 Open Free License
  * @github <https://github.com/Ruslan-A7>
  */
-enum InitiatorsEnum {
+enum EventInitiatorsEnum {
 
     /** Загальний ініціатор подій, що відбуваються в додатку, будь-якому його модулі, розширенні та віджеті */
     case App;
